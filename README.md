@@ -6,9 +6,13 @@ Tensorflow 2.16.1
 Cuda 12.3
 Jupyter Notebook 7.3
 
-> conda create –name=tf python=3.9
+> conda create –env=tf python=3.9
 > 
 > conda install -c conda-forge cudatoolkit=12.3 cudnn=8.1.0
 >
 > conda activate tf
 python3 -m pip install tensorflow==2.10
+
+Proposed model can be can be trained using main.ipynb jupyter notebook file. The model.py python file condtains model build up functions.
+
+
