@@ -1,9 +1,12 @@
 # NPC-Prognosis-Prediction
 This repository includes the script in Python code for Nasopharyngeal Carcinoma prognosis prediction utilized in the analyses of our proposed study.  The dataset is confidential and cannot be shared in this repository; only a few samples are available for review.
 
-The code can run smoothly using these dependencies.
+**The code can run smoothly using these dependencies.**
+
 Tensorflow 2.16.1
+
 Cuda 12.3
+
 Jupyter Notebook 7.3
 
 > conda create –env=tf python=3.9
